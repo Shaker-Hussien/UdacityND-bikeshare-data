@@ -1,0 +1,8 @@
+to get mode for multiple columns:
+https://stackoverflow.com/questions/55719762/how-to-calculate-mode-over-two-columns-in-a-python-dataframe
+
+to convert seconds to hours,minutes,seconds:
+https://stackoverflow.com/questions/775049/how-do-i-convert-seconds-to-hours-minutes-and-seconds/775075
+
+display float as int in pandas:
+https://stackoverflow.com/questions/21291259/convert-floats-to-ints-in-pandas
